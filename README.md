@@ -1,5 +1,6 @@
-# field-uniformity
-### Track selection for LArTPC data using DBSCAN + PCA Fits
+# dune-nd-mip-caliib
+### Muon Track selection for LArTPC data using DBSCAN + PCA Fits
+### Track segmentation and charge scale calibration
 If running at NERSC, load corresponding environment as :  
 
 `$ module load conda  `  
